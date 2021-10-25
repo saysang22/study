@@ -6,7 +6,9 @@
   "dependencies": {
     "gulp": "^4.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-concat": "^2.6.1"
+  },
   "scripts": {
     "test": "공부하자"
   },
