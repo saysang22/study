@@ -1,0 +1,23 @@
+{
+  "name": "sang_study",
+  "version": "1.0.0",
+  "description": "프론트엔드 공부",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "공부하자"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saysang22/study.git"
+  },
+  "author": "sanghui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saysang22/study/issues"
+  },
+  "homepage": "https://github.com/saysang22/study#readme"
+}
